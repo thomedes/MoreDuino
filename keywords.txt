@@ -1,0 +1,13 @@
+# Syntax Coloring Map For is32fl3237
+
+# Datatypes (KEYWORD1)
+
+Logger		KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
+
+# Other (LITERAL2)

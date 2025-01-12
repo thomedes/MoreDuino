@@ -1,0 +1,3 @@
+[submodule "extern/NotDuino"]
+	path = extern/NotDuino
+	url = https://github.com/thomedes/NotDuino.git

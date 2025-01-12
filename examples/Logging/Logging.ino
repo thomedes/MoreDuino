@@ -10,7 +10,7 @@ void setup() {
   logger.warning("Hello, world!");
   logger.error("Hello, world!");
   logger.critical("Hello, world!");
+  exit(0);
 }
 
-void loop() {
-}
+void loop() {}
